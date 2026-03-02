@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: Peace & War 
 date: 2023-10-24
 type: landing
 
@@ -20,15 +20,15 @@ sections:
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
-  - block: cta-button-list
+- block: cta-button-list
     content:
-      # Need a custom icon?
-      # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Read my latest paper on LLMs
-          icon: academicons/arxiv
-          url: https://arxiv.org/abs/2304.01852
+        - text: "Get the 'From Meat to Plants' eBook"
+          icon: solid/book-open
+          url: https://motioninnerg.gumroad.com/l/FromMEATtoPLANTS
+        - text: "Follow me on Instagram"
+          icon: brands/instagram
+          url: https://instagram.com/Motion.Innerg                 
         - text: Watch my new YouTube video to achieve 20x productivity
           icon: brands/youtube
           url: https://youtube.com
