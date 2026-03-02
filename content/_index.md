@@ -24,10 +24,13 @@ sections:
         - text: "Get the 'From Meat to Plants' eBook"
           icon: solid/book-open
           url: https://motioninnerg.gumroad.com/l/FromMEATtoPLANTS
-        - text: "Follow me on Instagram"
-          icon: brands/instagram
-          url: https://instagram.com/Motion.Innerg
-        - text: "Connect with me on LinkedIn"
-          icon: brands/linkedin
-          url: https://linkedin.com
+        - text: "Follow on TikTok"
+          icon: brands/tiktok
+          url: https://www.tiktok.com/@motioninnerg
+        - text: "Subscribe on YouTube"
+          icon: brands/youtube
+          url: https://www.youtube.com/@motioninnerg
+        - text: "Join on Facebook"
+          icon: brands/facebook
+          url: https://facebook.com/motioninnerg
 ---
