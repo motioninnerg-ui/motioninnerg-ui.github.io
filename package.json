@@ -2,7 +2,7 @@
   "name": "hugo-blox-link-in-bio-starter",
   "version": "1.0.0",
   "private": true,
-  "packageManager": 
+
   "description": "Link-in-bio starter template for Hugo Blox with Tailwind CSS v4",
   "scripts": {
     "dev": "hugo server --disableFastRender",
