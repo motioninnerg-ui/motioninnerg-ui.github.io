@@ -33,3 +33,4 @@ We're an open source movement that depends on your support to stay online and th
 
 ### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://hugoblox.com/sponsor/)
 
+
