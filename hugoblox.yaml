@@ -6,3 +6,15 @@ deploy:
 template:
   id: "link-in-bio"
   name: "Link in Bio"
+
+# Your Brand Colors from Canva
+appearance:
+  theme_day:
+    primary: "#000000"    # Black for buttons/links so they pop
+    background: "#f6c908" # Your Canva Yellow
+    text: "#000000"       # Solid Black text
+
+# Your Brand Fonts
+design:
+  font: "Montserrat"      # Matches common Canva brand styles
+  font_size: "18px"
