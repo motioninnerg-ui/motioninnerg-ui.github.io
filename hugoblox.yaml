@@ -1,20 +1,15 @@
 build:
-  hugo_version: '0.156.0'
+  hugo_version: '0.154.0'
 deploy:
-  # Deployment target: github-pages, netlify, vercel, cloudflare, or none
-  host: 'github-pages'
+  host: 'cloudflare'
 template:
   id: "link-in-bio"
   name: "Link in Bio"
-
-# Your Brand Colors from Canva
 appearance:
   theme_day:
-    primary: "#000000"    
-    background: "#f6c908" 
-    text: "#000000"       
-
-# Your Brand Fonts
+    primary: "#000000"
+    background: "#f6c908"
+    text: "#000000"
 design:
-  font: "Montserrat"      
+  font: "Montserrat"
   font_size: "18px"
