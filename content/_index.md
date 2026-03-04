@@ -21,13 +21,13 @@ sections:
   - block: cta-button-list
     content:
       buttons:
-        - text: "Get the 'From Meat to Plants' eBook"
+        - text: "From Meat to Plants"
           icon: solid/book-open
-          url: https://motioninnerg.gumroad.com/l/FromMEATtoPLANTS
-        - text: "Follow on TikTok"
+          url: https://gumroad.com/checkout?_gl=1*14elw6h*_ga*MTQ2ODU1OTk5My4xNzcyNjYyNzU5*_ga_6LJN6D94N6*czE3NzI2NjI3NTgkbzEkZzEkdDE3NzI2NjQ0NTUkajYwJGwwJGgw
+        - text: "TikTok"
           icon: brands/tiktok
           url: https://www.tiktok.com/@motioninnerg
-        - text: "Subscribe on YouTube"
+        - text: "Subscribe To My Channel"
           icon: brands/youtube
           url: https://www.youtube.com/@motioninnerg
         - text: "Join on Facebook"
