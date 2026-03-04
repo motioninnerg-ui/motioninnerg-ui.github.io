@@ -1,19 +1,15 @@
 build:
   hugo_version: '0.154.0'
-
 deploy:
   host: 'cloudflare'
-
 template:
   id: "link-in-bio"
   name: "Link in Bio"
-
 appearance:
   theme_day:
     primary: "#000000"
     background: "#f6c908"
     text: "#000000"
-
 design:
   font: "Montserrat"
   font_size: "18px"
