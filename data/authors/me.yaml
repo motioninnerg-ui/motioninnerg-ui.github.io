@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Mo
+  display: Motion Innerg
   given: Motion
   family: Innerg
 pronouns: HER
