@@ -1,28 +1,15 @@
-schema: hugoblox/author/v1
-slug: me
-is_owner: true
-name:
-  display: Motion Innerg
-  given: Motion
-  family: Innerg
-pronouns: HER
-status:
-  icon: "🌱"
-role: Holistic Plant Based Mistress
-bio: >
-  I help you transition to a plant based lifestyle with ease and intention. 
-  Join the movement for inner healing and motion through holistic living.
-links:
-  - icon: at-symbol
-    url: mailto:mo@motioninnerg.com
-    label: E-mail Me
-  - icon: brands/tiktok
-    url: https://www.tiktok.com/@motioninnerg
-  - icon: brands/instagram
-    url: https://www.instagram.com/motion.innerg
-  - icon: brands/youtube
-    url: https://www.youtube.com/@motioninnerg
-  - icon: brands/twitch
-    url: https://www.twitch.tv/motioninnerg
-  - icon: brands/facebook
-    url: https://facebook.com/motioninnerg
+build:
+  hugo_version: '0.154.0'
+deploy:
+  host: 'cloudflare'
+template:
+  id: "link-in-bio"
+  name: "Link in Bio"
+appearance:
+  theme_day:
+    primary: "#000000"
+    background: "#f6c908"
+    text: "#000000"
+design:
+  font: "Montserrat"
+  font_size: "18px"
