@@ -10,6 +10,3 @@ appearance:
     primary: "#000000"
     background: "#f6c908"
     text: "#000000"
-design:
-  font: "Montserrat"
-  font_size: "18px"
