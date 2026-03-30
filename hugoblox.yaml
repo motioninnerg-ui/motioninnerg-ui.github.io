@@ -4,7 +4,6 @@ deploy:
   host: 'cloudflare'
 template:
   id: "link-in-bio"
-  name: "Link in Bio"
 appearance:
   theme_day:
     primary: "#000000"
