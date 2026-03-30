@@ -1,6 +1,7 @@
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
+avatar: avatar.jpg
 name:
   display: Mo
   given: War
