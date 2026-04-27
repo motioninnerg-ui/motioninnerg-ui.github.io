@@ -14,13 +14,15 @@ bio: |
   
   Based in Atlanta, grounding in nature. 𓋹𓂀𓁈𓃠𓆃𓅓𓆣
 links:
-  - icon: brands/tiktok
+  - icon: fa-tiktok
+    pack: fab
     url: https://www.tiktok.com/@motioninnerg
-  - icon: brands/instagram
+  - icon: fa-instagram
+    pack: fab
     url: https://www.instagram.com/motion.innerg
-  - icon: brands/youtube
+  - icon: fa-youtube
+    pack: fab
     url: https://www.youtube.com/@motioninnerg
-  - icon: brands/twitch
-    url: https://www.twitch.tv/motioninnerg
-  - icon: brands/facebook
+  - icon: fa-facebook
+    pack: fab
     url: https://facebook.com/motioninnerg
