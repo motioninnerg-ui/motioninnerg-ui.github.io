@@ -24,9 +24,11 @@ sections:
         - text: "From Meat to Plants"
           icon: solid/book-open
           url: https://gumroad.com/checkout?_gl=1*14elw6h*_ga*MTQ2ODU1OTk5My4xNzcyNjYyNzU5*_ga_6LJN6D94N6*czE3NzI2NjI3NTgkbzEkZzEkdDE3NzI2NjQ0NTUkajYwJGwwJGgw
-        - text: "TikTok"
+        - text: "Organic Plant Based Skincare"
           icon: brands/tiktok
-          url: https://www.tiktok.com/@motioninnerg
+          url: https://- text: "Organic Plant Based Skincare"
+    icon: solid/leaf
+    url: https://www.herbneden.com/motioninnerg
         - text: "Subscribe To My Channel"
           icon: brands/youtube
           url: https://www.youtube.com/@motioninnerg
