@@ -20,16 +20,20 @@ sections:
   - block: cta-button-list
     content:
       buttons:
-      - text: "From Meat to Plants"
-          icon: fa-solid fa-book-open
+        - text: "From Meat to Plants"
+          icon: fa-book-open
+          pack: fas
           url: https://motioninnerg.gumroad.com/l/FromMEATtoPLANTS?wanted=true
         - text: "Organic Plant Based Skincare"
-          icon: fa-solid fa-leaf
-          url: https://www.herbneden.com/motioninnerg 
+          icon: fa-leaf
+          pack: fas
+          url: https://www.herbneden.com/motioninnerg
         - text: "Subscribe To My Channel"
-          icon: brands/youtube
+          icon: fa-youtube
+          pack: fab
           url: https://www.youtube.com/@motioninnerg
         - text: "Join on Facebook"
-          icon: brands/facebook
+          icon: fa-facebook
+          pack: fab
           url: https://facebook.com/motioninnerg
 ---
