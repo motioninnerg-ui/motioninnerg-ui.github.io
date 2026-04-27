@@ -17,7 +17,6 @@ sections:
         style: 'text-align: justify; font-size: 0.8em;'
       avatar:
         size: medium
-
   - block: cta-button-list
     content:
       buttons:
@@ -25,10 +24,8 @@ sections:
           icon: solid/book-open
           url: https://motioninnerg.gumroad.com/l/FromMEATtoPLANTS?wanted=true
         - text: "Organic Plant Based Skincare"
-          icon: brands/tiktok
-          url: https://- text: "Organic Plant Based Skincare"
-    icon: solid/leaf
-    url: https://www.herbneden.com/motioninnerg
+          icon: solid/leaf
+          url: https://www.herbneden.com/motioninnerg
         - text: "Subscribe To My Channel"
           icon: brands/youtube
           url: https://www.youtube.com/@motioninnerg
