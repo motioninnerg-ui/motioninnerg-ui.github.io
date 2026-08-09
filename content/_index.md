@@ -1,5 +1,5 @@
 ---
-title: "Mo — Plant-Based Living, Ancestral Roots & Nervous System Care"
+title: "Mo — Plant Based Living, Ancestral Roots & Nervous System Care"
 type: landing
 sections:
   - id: intro
@@ -54,23 +54,20 @@ sections:
         text_color_light: true
     content:
       title: "Core Focus"
-     items:
-      - icon: hero/outline/sparkles
-        name: "Plant-Based Eating & Ancestral Roots"
-        description: "Real whole food and cultural knowledge that supports Black health, longevity, and everyday stamina."
+      items:
+        - icon: hero/outline/sparkles
+          name: "Plant-Based Eating & Ancestral Roots"
+          description: "Real whole food and cultural knowledge that supports Black health, longevity, and everyday stamina."
+        - icon: hero/outline/bolt
+          name: "Nervous System Regulation"
+          description: "Practical daily habits to pull your body out of fight or flight, reduce stress, and protect your energy."
+        - icon: hero/outline/speaker-wave
+          name: "Audio & Custom Frequencies"
+          description: "Original audio tracks tuned to quiet mental chatter and reset your nervous system."
+        - icon: hero/outline/eye
+          name: "Media & Content"
+          description: "Podcasts, visual media, and real conversations centered on our roots, health, and lived experiences."
 
-      - icon: hero/outline/bolt
-        name: "Nervous System Regulation"
-        description: "Practical daily habits to pull your body out of fight-or-flight, reduce stress, and protect your energy."
-
-      - icon: hero/outline/speaker-wave
-        name: "Audio & Custom Frequencies"
-        description: "Original audio tracks tuned to quiet mental chatter and reset your nervous system."
-
-      - icon: hero/outline/eye
-        name: "Media & Content"
-        description: "Podcasts, visual media, and real conversations centered on our roots, health, and lived experiences."
-        
   - id: my-approach
     block: markdown
     design:
@@ -88,7 +85,7 @@ sections:
     content:
       title: "My Stance"
       text: |
-        The wellness industry sells cleanses, extreme restrictions, and colonial pseudoscience that creates confusion.
+        The wellness industry sells cleanses, extreme restrictions, and colonial pseudoscience that creates confusion. 
 
         Real health is about total authority over your own body and nervous system. It comes down to real food, ancestral wisdom, and practical habits that fit your actual life.
 
@@ -99,7 +96,7 @@ sections:
       css_style: "color: #ffffff;"
       card:
         css_class: "glassmorphism-primary text-white [&_*]:!text-white"
-        overlay_opacity: 0.15
+      overlay_opacity: 0.15
       spacing:
         padding:
           - "3rem"
@@ -117,9 +114,7 @@ sections:
       title: "From Meat To Plants"
       text: |
         A clear transition to real whole foods.
-
         Practical ancestral food knowledge for your kitchen.
-
         Daily routines and tools you can start using today.
       button:
         url: "#email-capture"
@@ -146,9 +141,7 @@ sections:
       title: "Content & Media"
       text: |
         Podcast: Direct talks on health, energy, and living on your terms.
-
         Frequency Audio: Custom audio sessions built to calm your nervous system and restore focus.
-
         Visuals: Media centered on true history and cultural roots.
       button:
         url: "https://yourmediahub.example.com"
@@ -170,6 +163,7 @@ sections:
         color: "#0f1056"
         text_color_light: true
     content:
+      title: "Stay Connected"
       buttons:
         - url: "#subscribe"
           icon: hero/envelope
