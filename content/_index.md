@@ -54,20 +54,23 @@ sections:
         text_color_light: true
     content:
       title: "Core Focus"
-      items:
-        - icon: hero/sparkles
-          name: "Plant-Based Eating & Ancestral Roots"
-          description: "Real whole food and cultural knowledge that supports Black health, longevity, and everyday stamina."
-        - icon: hero/bolt
-          name: "Nervous System Regulation"
-          description: "Practical daily habits to pull your body out of fight-or-flight, reduce stress, and protect your energy."
-        - icon: hero/speaker-wave
-          name: "Audio & Custom Frequencies"
-          description: "Original audio tracks tuned to quiet mental chatter and reset your nervous system."
-        - icon: hero/eye
-          name: "Media & Content"
-          description: "Podcasts, visual media, and real conversations centered on our roots, health, and lived experiences."
+     items:
+      - icon: hero/outline/sparkles
+        name: "Plant-Based Eating & Ancestral Roots"
+        description: "Real whole food and cultural knowledge that supports Black health, longevity, and everyday stamina."
 
+      - icon: hero/outline/bolt
+        name: "Nervous System Regulation"
+        description: "Practical daily habits to pull your body out of fight-or-flight, reduce stress, and protect your energy."
+
+      - icon: hero/outline/speaker-wave
+        name: "Audio & Custom Frequencies"
+        description: "Original audio tracks tuned to quiet mental chatter and reset your nervous system."
+
+      - icon: hero/outline/eye
+        name: "Media & Content"
+        description: "Podcasts, visual media, and real conversations centered on our roots, health, and lived experiences."
+        
   - id: my-approach
     block: markdown
     design:
