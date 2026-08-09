@@ -54,16 +54,19 @@ sections:
         text_color_light: true
     content:
       title: "Core Focus"
-      items:
-        - icon: leaf
+     items:
+        - icon: seedling
           name: "Plant-Based Eating & Ancestral Roots"
           description: "Real whole food and cultural knowledge that supports Black health, longevity, and everyday stamina."
+        
         - icon: bolt
           name: "Nervous System Regulation"
           description: "Practical daily habits to pull your body out of fight or flight, reduce stress, and protect your energy."
-        - icon: volume-up
+        
+        - icon: headphones
           name: "Audio & Custom Frequencies"
           description: "Original audio tracks tuned to quiet mental chatter and reset your nervous system."
+        
         - icon: eye
           name: "Media & Content"
           description: "Podcasts, visual media, and real conversations centered on our roots, health, and lived experiences."
