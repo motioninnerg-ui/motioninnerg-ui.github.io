@@ -1,5 +1,5 @@
 ---
-title: "Mo — Plant-Based Living, Ancestral Roots & Nervous System Care"
+title: "Mo — Plant Based Living, Ancestral Roots & Nervous System Care"
 type: landing
 sections:
   - id: intro
@@ -25,9 +25,9 @@ sections:
           position: "50% 40%"
     content:
       eyebrow: "Body sovereignty & real health"
-      text: "I'm Mo — eight years deep into plant-based living, ancestral roots, and nervous system regulation. It goes way beyond what's on your plate: it's about settling your nervous system, clearing mental noise, and taking full control of your health on your own terms."
+      text: "I'm Mo eight years deep into plant based living, ancestral roots, and nervous system regulation. It goes way beyond what's on your plate: it's about settling your nervous system, clearing mental noise, and taking full control of your health on your own terms."
       primary_action:
-        url: "#ebook"
+        url: "https://gumroad.com/checkout"
         icon: hero/book-open
         text: "Get From Meat To Plants"
         style: gradient
@@ -116,7 +116,7 @@ sections:
         Practical ancestral food knowledge for your kitchen.
         Daily routines and tools you can start using today.
       button:
-        url: "#email-capture"
+        url: "https://gumroad.com/checkout"
         icon: hero/book-open
         text: "Get The Ebook"
 
@@ -143,7 +143,7 @@ sections:
         Frequency Audio: Custom audio sessions built to calm your nervous system and restore focus.
         Visuals: Media centered on true history and cultural roots.
       button:
-        url: "https://yourmediahub.example.com"
+        url: "https://youtube.com/shorts/FCqAzEm-Fv0?si=wxiE2DQxsqgla9t_"
         icon: hero/play-circle
         text: "Listen & Watch"
 
