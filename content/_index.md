@@ -29,12 +29,12 @@ sections:
       eyebrow: "Body sovereignty & real health"
       primary_action:
         url: "#ebook"
-        icon: book-open
+        icon: hero/book-open
         text: "Get From Meat To Plants"
         style: gradient
       secondary_action:
         url: "#email-capture"
-        icon: users
+        icon: hero/users
         text: "Join the Community"
         style: text
 
@@ -55,16 +55,16 @@ sections:
     content:
       title: "Core Focus"
       items:
-        - icon: sparkles
+        - icon: hero/sparkles
           name: "Plant-Based Eating & Ancestral Roots"
           description: "Real whole food and cultural knowledge that supports Black health, longevity, and everyday stamina."
-        - icon: bolt
+        - icon: hero/bolt
           name: "Nervous System Regulation"
           description: "Practical daily habits to pull your body out of fight or flight, reduce stress, and protect your energy."
-        - icon: speaker-wave
+        - icon: hero/speaker-wave
           name: "Audio & Custom Frequencies"
           description: "Original audio tracks tuned to quiet mental chatter and reset your nervous system."
-        - icon: eye
+        - icon: hero/eye
           name: "Media & Content"
           description: "Podcasts, visual media, and real conversations centered on our roots, health, and lived experiences."
 
@@ -118,7 +118,7 @@ sections:
         Daily routines and tools you can start using today.
       button:
         url: "#email-capture"
-        icon: book-open
+        icon: hero/book-open
         text: "Get The Ebook"
 
   - id: media-hub
@@ -145,7 +145,7 @@ sections:
         Visuals: Media centered on true history and cultural roots.
       button:
         url: "https://yourmediahub.example.com"
-        icon: play-circle
+        icon: hero/play-circle
         text: "Listen & Watch"
 
   - id: email-capture
@@ -166,9 +166,9 @@ sections:
       title: "Stay Connected"
       buttons:
         - url: "#subscribe"
-          icon: envelope
+          icon: hero/envelope
           text: "Subscribe"
         - url: "#my-approach"
-          icon: information-circle
+          icon: hero/information-circle
           text: "Learn More"
 ---
