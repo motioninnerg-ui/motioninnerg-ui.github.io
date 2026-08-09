@@ -6,12 +6,12 @@ sections:
     block: hero
     design:
       css_class: "dark text-white prose-invert [&_*]:!text-white"
-      css_style: "min-height: 75vh; color: #ffffff;"
+      css_style: "min-height: 60vh; color: #ffffff;"
       spacing:
         padding:
-          - "5rem"
+          - "4rem"
           - "1rem"
-          - "5rem"
+          - "4rem"
           - "1rem"
       background:
         color: "#0f1056"
@@ -24,9 +24,8 @@ sections:
           start: "#aad6ec55"
           position: "50% 40%"
     content:
-      title: "I’m Mo — plant-based living, ancestral roots, and nervous system regulation"
-      text: "Eight years deep into this lifestyle. It goes way beyond what’s on your plate, it’s about settling your nervous system, clearing mental noise, and taking full control of your health on your own terms."
       eyebrow: "Body sovereignty & real health"
+      text: "I’m Mo — eight years deep into plant-based living, ancestral roots, and nervous system regulation. It goes way beyond what’s on your plate: it’s about settling your nervous system, clearing mental noise, and taking full control of your health on your own terms."
       primary_action:
         url: "#ebook"
         icon: book-open
@@ -54,19 +53,16 @@ sections:
         text_color_light: true
     content:
       title: "Core Focus"
-     items:
+      items:
         - icon: seedling
           name: "Plant-Based Eating & Ancestral Roots"
           description: "Real whole food and cultural knowledge that supports Black health, longevity, and everyday stamina."
-        
         - icon: bolt
           name: "Nervous System Regulation"
           description: "Practical daily habits to pull your body out of fight or flight, reduce stress, and protect your energy."
-        
         - icon: headphones
           name: "Audio & Custom Frequencies"
           description: "Original audio tracks tuned to quiet mental chatter and reset your nervous system."
-        
         - icon: eye
           name: "Media & Content"
           description: "Podcasts, visual media, and real conversations centered on our roots, health, and lived experiences."
