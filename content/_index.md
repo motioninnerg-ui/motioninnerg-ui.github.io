@@ -164,7 +164,7 @@ sections:
     content:
       title: "Stay Connected"
       buttons:
-        - url: "#subscribe"
+        - url: "https://substack.com/@motioninnerg?r=2jgyhd&utm_campaign=profile&utm_medium=profile-page"
           icon: hero/envelope
           text: "Subscribe"
         - url: "#my-approach"
