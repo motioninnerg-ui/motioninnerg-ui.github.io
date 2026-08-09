@@ -1,174 +1,49 @@
 ---
-title: "Mo — Plant-Based Living, Ancestral Roots & Nervous System Care"
+title: "Mo — Plant-Based Living, Ancestral Roots"
 type: landing
 sections:
   - id: intro
     block: hero
     design:
-      css_class: "dark text-white prose-invert [&_*]:!text-white"
-      css_style: "min-height: 75vh; color: #ffffff;"
+      css_class: "dark text-white prose-invert"
+      css_style: "min-height: 60vh; color: #fff;"
       spacing:
-        padding:
-          - "5rem"
-          - "1rem"
-          - "5rem"
-          - "1rem"
-      background:
-        color: "#0f1056"
-        text_color_light: true
-        gradient:
-          end: "transparent"
-          size: "80% 80%"
-          type: "radial"
-          shape: "ellipse"
-          start: "#aad6ec55"
-          position: "50% 40%"
+        padding: ["6rem", "0", "6rem", "0"]
     content:
-      title: "I'm Mo — plant-based living, ancestral roots, and nervous system regulation"
-      text: "Eight years deep into this lifestyle. It goes way beyond what's on your plate, it's about settling your nervous system, clearing mental noise, and taking full control of your health on your own terms."
-      eyebrow: "Body sovereignty & real health"
-      primary_action:
-        url: "#ebook"
-        icon: hero/book-open
-        text: "Get From Meat To Plants"
-        style: gradient
-      secondary_action:
-        url: "#email-capture"
-        icon: hero/users
-        text: "Join the Community"
-        style: text
+      title: ""
+      subtitle: "Rooted in tradition. Nourished by nature."
+      text: >-
+        A journey back to ancestral eating, plant-powered vitality,
+        and mindful living for the modern world.
+      buttons:
+        - text: "Start the Journey"
+          url: "/get-started"
+          icon: "arrow-right"
+          icon_pack: "fas"
 
-  - id: core-pillars
+  - id: pillars
     block: features
     design:
-      css_class: "dark text-white prose-invert [&_*]:!text-white"
-      css_style: "color: #ffffff;"
-      spacing:
-        padding:
-          - "4rem"
-          - "1rem"
-          - "4rem"
-          - "1rem"
-      background:
-        color: "#151269"
-        text_color_light: true
+      css_class: "dark text-white"
+      columns: 4
     content:
-      title: "Core Focus"
+      title: "Our Core Pillars"
+      subtitle: "Everything we build stands on these four foundations"
       items:
-        - icon: hero/sparkles
-          name: "Plant-Based Eating & Ancestral Roots"
-          description: "Real whole food and cultural knowledge that supports Black health, longevity, and everyday stamina."
-        - icon: hero/bolt
-          name: "Nervous System Regulation"
-          description: "Practical daily habits to pull your body out of fight or flight, reduce stress, and protect your energy."
-        - icon: hero/speaker-wave
-          name: "Audio & Custom Frequencies"
-          description: "Original audio tracks tuned to quiet mental chatter and reset your nervous system."
-        - icon: hero/eye
-          name: "Media & Content"
-          description: "Podcasts, visual media, and real conversations centered on our roots, health, and lived experiences."
-
-  - id: my-approach
-    block: markdown
-    design:
-      css_class: "dark text-white prose-invert [&_*]:!text-white"
-      css_style: "color: #ffffff;"
-      spacing:
-        padding:
-          - "3rem"
-          - "1rem"
-          - "3rem"
-          - "1rem"
-      background:
-        color: "#113065"
-        text_color_light: true
-    content:
-      title: "My Stance"
-      text: |
-        The wellness industry sells cleanses, extreme restrictions, and colonial pseudoscience that creates confusion.
-
-        Real health is about total authority over your own body and nervous system. It comes down to real food, ancestral wisdom, and practical habits that fit your actual life.
-
-  - id: ebook
-    block: cta-card
-    design:
-      css_class: "dark text-white prose-invert [&_*]:!text-white"
-      css_style: "color: #ffffff;"
-      card:
-        css_class: "glassmorphism-primary text-white [&_*]:!text-white"
-      overlay_opacity: 0.15
-      spacing:
-        padding:
-          - "3rem"
-          - "1rem"
-          - "3rem"
-          - "1rem"
-      background:
-        color: "#0f1056"
-        text_color_light: true
-        gradient:
-          end: "#151269"
-          start: "#81b1ce"
-          direction: 135
-    content:
-      title: "From Meat To Plants"
-      text: |
-        A clear transition to real whole foods.
-        Practical ancestral food knowledge for your kitchen.
-        Daily routines and tools you can start using today.
-      button:
-        url: "#email-capture"
-        icon: hero/book-open
-        text: "Get The Ebook"
-
-  - id: media-hub
-    block: cta-card
-    design:
-      css_class: "dark text-white prose-invert [&_*]:!text-white"
-      css_style: "color: #ffffff;"
-      card:
-        css_class: "glassmorphism-primary text-white [&_*]:!text-white"
-      spacing:
-        padding:
-          - "3rem"
-          - "1rem"
-          - "3rem"
-          - "1rem"
-      background:
-        color: "#151269"
-        text_color_light: true
-    content:
-      title: "Content & Media"
-      text: |
-        Podcast: Direct talks on health, energy, and living on your terms.
-        Frequency Audio: Custom audio sessions built to calm your nervous system and restore focus.
-        Visuals: Media centered on true history and cultural roots.
-      button:
-        url: "https://yourmediahub.example.com"
-        icon: hero/play-circle
-        text: "Listen & Watch"
-
-  - id: email-capture
-    block: cta-button-list
-    design:
-      css_class: "dark text-white prose-invert [&_*]:!text-white"
-      css_style: "color: #ffffff;"
-      spacing:
-        padding:
-          - "4rem"
-          - "1rem"
-          - "4rem"
-          - "1rem"
-      background:
-        color: "#0f1056"
-        text_color_light: true
-    content:
-      title: "Stay Connected"
-      buttons:
-        - url: "#subscribe"
-          icon: hero/envelope
-          text: "Subscribe"
-        - url: "#my-approach"
-          icon: hero/information-circle
-          text: "Learn More"
+        - icon: seedling
+          icon_pack: fas
+          name: "Rooted Nutrition"
+          description: "Whole-food, plant-based nourishment inspired by ancestral wisdom."
+        - icon: bolt
+          icon_pack: fas
+          name: "Sustained Energy"
+          description: "Fuel your body naturally without processed shortcuts."
+        - icon: headphones
+          icon_pack: fas
+          name: "Mindful Living"
+          description: "Practices and guidance to stay present and grounded."
+        - icon: eye
+          icon_pack: fas
+          name: "Conscious Awareness"
+          description: "See beyond trends into what truly nourishes you."
 ---
