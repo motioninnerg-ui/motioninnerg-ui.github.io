@@ -29,12 +29,14 @@ sections:
       eyebrow: "Body sovereignty & real health"
       primary_action:
         url: "#ebook"
-        icon: hero/book-open
+        icon: book-open
+        icon_pack: fas
         text: "Get From Meat To Plants"
         style: gradient
       secondary_action:
         url: "#email-capture"
-        icon: hero/users
+        icon: users
+        icon_pack: fas
         text: "Join the Community"
         style: text
 
@@ -55,16 +57,20 @@ sections:
     content:
       title: "Core Focus"
       items:
-        - icon: hero/outline/sparkles
+        - icon: leaf
+          icon_pack: fas
           name: "Plant-Based Eating & Ancestral Roots"
           description: "Real whole food and cultural knowledge that supports Black health, longevity, and everyday stamina."
-        - icon: hero/outline/bolt
+        - icon: bolt
+          icon_pack: fas
           name: "Nervous System Regulation"
           description: "Practical daily habits to pull your body out of fight or flight, reduce stress, and protect your energy."
-        - icon: hero/outline/speaker-wave
+        - icon: volume-high
+          icon_pack: fas
           name: "Audio & Custom Frequencies"
           description: "Original audio tracks tuned to quiet mental chatter and reset your nervous system."
-        - icon: hero/outline/eye
+        - icon: eye
+          icon_pack: fas
           name: "Media & Content"
           description: "Podcasts, visual media, and real conversations centered on our roots, health, and lived experiences."
 
@@ -118,7 +124,8 @@ sections:
         Daily routines and tools you can start using today.
       button:
         url: "#email-capture"
-        icon: hero/book-open
+        icon: book-open
+        icon_pack: fas
         text: "Get The Ebook"
 
   - id: media-hub
@@ -145,7 +152,8 @@ sections:
         Visuals: Media centered on true history and cultural roots.
       button:
         url: "https://yourmediahub.example.com"
-        icon: hero/play-circle
+        icon: circle-play
+        icon_pack: fas
         text: "Listen & Watch"
 
   - id: email-capture
@@ -166,9 +174,11 @@ sections:
       title: "Stay Connected"
       buttons:
         - url: "#subscribe"
-          icon: hero/envelope
+          icon: envelope
+          icon_pack: fas
           text: "Subscribe"
         - url: "#my-approach"
-          icon: hero/information-circle
+          icon: circle-info
+          icon_pack: fas
           text: "Learn More"
 ---
