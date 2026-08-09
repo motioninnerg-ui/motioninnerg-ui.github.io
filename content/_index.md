@@ -6,12 +6,12 @@ sections:
     block: hero
     design:
       css_class: "dark text-white prose-invert [&_*]:!text-white"
-      css_style: "min-height: 60vh; color: #ffffff;"
+      css_style: "min-height: 75vh; color: #ffffff;"
       spacing:
         padding:
-          - "4rem"
+          - "5rem"
           - "1rem"
-          - "4rem"
+          - "5rem"
           - "1rem"
       background:
         color: "#0f1056"
@@ -24,8 +24,9 @@ sections:
           start: "#aad6ec55"
           position: "50% 40%"
     content:
+      title: "I'm Mo — plant-based living, ancestral roots, and nervous system regulation"
+      text: "Eight years deep into this lifestyle. It goes way beyond what's on your plate, it's about settling your nervous system, clearing mental noise, and taking full control of your health on your own terms."
       eyebrow: "Body sovereignty & real health"
-      text: "I’m Mo — eight years deep into plant-based living, ancestral roots, and nervous system regulation. It goes way beyond what’s on your plate: it’s about settling your nervous system, clearing mental noise, and taking full control of your health on your own terms."
       primary_action:
         url: "#ebook"
         icon: book-open
@@ -54,13 +55,13 @@ sections:
     content:
       title: "Core Focus"
       items:
-        - icon: seedling
+        - icon: sparkles
           name: "Plant-Based Eating & Ancestral Roots"
           description: "Real whole food and cultural knowledge that supports Black health, longevity, and everyday stamina."
         - icon: bolt
           name: "Nervous System Regulation"
           description: "Practical daily habits to pull your body out of fight or flight, reduce stress, and protect your energy."
-        - icon: headphones
+        - icon: speaker-wave
           name: "Audio & Custom Frequencies"
           description: "Original audio tracks tuned to quiet mental chatter and reset your nervous system."
         - icon: eye
@@ -84,7 +85,7 @@ sections:
     content:
       title: "My Stance"
       text: |
-        The wellness industry sells cleanses, extreme restrictions, and colonial pseudoscience that creates confusion. 
+        The wellness industry sells cleanses, extreme restrictions, and colonial pseudoscience that creates confusion.
 
         Real health is about total authority over your own body and nervous system. It comes down to real food, ancestral wisdom, and practical habits that fit your actual life.
 
@@ -168,6 +169,6 @@ sections:
           icon: envelope
           text: "Subscribe"
         - url: "#my-approach"
-          icon: info-circle
+          icon: information-circle
           text: "Learn More"
 ---
