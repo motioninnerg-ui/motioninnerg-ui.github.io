@@ -1,5 +1,5 @@
 ---
-title: "Mo — Plant Based Living, Ancestral Roots & Nervous System Care"
+title: "Mo — Plant-Based Living, Ancestral Roots & Nervous System Care"
 type: landing
 sections:
   - id: intro
@@ -30,13 +30,11 @@ sections:
       primary_action:
         url: "#ebook"
         icon: book-open
-        icon_pack: fas
         text: "Get From Meat To Plants"
         style: gradient
       secondary_action:
         url: "#email-capture"
         icon: users
-        icon_pack: fas
         text: "Join the Community"
         style: text
 
@@ -58,19 +56,15 @@ sections:
       title: "Core Focus"
       items:
         - icon: leaf
-          icon_pack: fas
           name: "Plant-Based Eating & Ancestral Roots"
           description: "Real whole food and cultural knowledge that supports Black health, longevity, and everyday stamina."
         - icon: bolt
-          icon_pack: fas
           name: "Nervous System Regulation"
           description: "Practical daily habits to pull your body out of fight or flight, reduce stress, and protect your energy."
-        - icon: volume-high
-          icon_pack: fas
+        - icon: volume-up
           name: "Audio & Custom Frequencies"
           description: "Original audio tracks tuned to quiet mental chatter and reset your nervous system."
         - icon: eye
-          icon_pack: fas
           name: "Media & Content"
           description: "Podcasts, visual media, and real conversations centered on our roots, health, and lived experiences."
 
@@ -125,7 +119,6 @@ sections:
       button:
         url: "#email-capture"
         icon: book-open
-        icon_pack: fas
         text: "Get The Ebook"
 
   - id: media-hub
@@ -152,8 +145,7 @@ sections:
         Visuals: Media centered on true history and cultural roots.
       button:
         url: "https://yourmediahub.example.com"
-        icon: circle-play
-        icon_pack: fas
+        icon: play-circle
         text: "Listen & Watch"
 
   - id: email-capture
@@ -175,10 +167,8 @@ sections:
       buttons:
         - url: "#subscribe"
           icon: envelope
-          icon_pack: fas
           text: "Subscribe"
         - url: "#my-approach"
-          icon: circle-info
-          icon_pack: fas
+          icon: info-circle
           text: "Learn More"
 ---
