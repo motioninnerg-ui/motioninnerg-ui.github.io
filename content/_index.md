@@ -27,7 +27,7 @@ sections:
       eyebrow: "Body sovereignty & real health"
       text: "I'm Mo eight years deep into plant based living, ancestral roots, and nervous system regulation. It goes way beyond what's on your plate: it's about settling your nervous system, clearing mental noise, and taking full control of your health on your own terms."
       primary_action:
-        url: "https://gumroad.com/checkout"
+        url: "https://gumroad.com/checkout?_gl=1*vnozkt*_ga*MjQ5ODMyNDYyLjE3ODYxMjAwMzI.*_ga_6LJN6D94N6*czE3ODYzMDY2MTgkbzQkZzEkdDE3ODYzMDc4MzAkajU5JGwwJGgw"
         icon: hero/book-open
         text: "Get From Meat To Plants"
         style: gradient
@@ -116,7 +116,7 @@ sections:
         Practical ancestral food knowledge for your kitchen.
         Daily routines and tools you can start using today.
       button:
-        url: "https://gumroad.com/checkout"
+        url: "https://gumroad.com/checkout?_gl=1*vnozkt*_ga*MjQ5ODMyNDYyLjE3ODYxMjAwMzI.*_ga_6LJN6D94N6*czE3ODYzMDY2MTgkbzQkZzEkdDE3ODYzMDc4MzAkajU5JGwwJGgw"
         icon: hero/book-open
         text: "Get The Ebook"
 
